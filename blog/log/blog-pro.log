@@ -1,0 +1,4 @@
+2020-07-31 18:10:24.752  INFO 8956 --- [restartedMain] com.zyx.blog.BlogApplication             : Starting BlogApplication on BF-201907231647 with PID 8956 (E:\Web\blog\target\classes started by Administrator in E:\Web\blog)
+2020-07-31 18:10:24.754  INFO 8956 --- [restartedMain] com.zyx.blog.BlogApplication             : The following profiles are active: pro
+2020-07-31 18:10:25.743  WARN 8956 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-07-31 18:10:26.016  INFO 8956 --- [restartedMain] com.zyx.blog.BlogApplication             : Started BlogApplication in 1.58 seconds (JVM running for 2.046)
