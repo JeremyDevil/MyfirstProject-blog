@@ -1,2 +1,1 @@
-# 前端：semantic -ui 后端：java SpringBoot
-## Jpa,themleaf...
+SpringBoot-thymleaf
